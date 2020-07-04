@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\DeadLine App\DeadLine App\bin\Debug\DeadLine App.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\DeadLine App\DeadLine App\bin\Debug\DeadLine App.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\DeadLine App\DeadLine App\bin\Debug\DeadLine App.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\DeadLine App\DeadLine App\obj\Debug\DeadLine App.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\DeadLine App\DeadLine App\obj\Debug\DeadLine_App.Form1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\DeadLine App\DeadLine App\obj\Debug\DeadLine_App.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\DeadLine App\DeadLine App\obj\Debug\DeadLine App.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\DeadLine App\DeadLine App\obj\Debug\DeadLine App.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\DeadLine App\DeadLine App\obj\Debug\DeadLine App.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\DeadLine App\DeadLine App\obj\Debug\DeadLine App.pdb
